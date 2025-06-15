@@ -32,10 +32,9 @@
 
 ## 📫 Contact
 
-- **LinkedIn:** [linkedin.com/in/boss-data-analyst](https://www.linkedin.com/in/boss-data-analyst)  
-- **Email:** boss.analytics@example.com  
-- **Resume:** [Download Resume (PDF)](https://example.com/boss_resume.pdf)  
-- **Portfolio:** [boss-analytics.github.io](https://boss-analytics.github.io)
+- **LinkedIn:** [www.linkedin.com/in/thaneeshvarmathogaru]
+- **Email:** Thaneeshvarmawork@gmail.com    
+
 
 ---
 
